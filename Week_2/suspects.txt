@@ -1,0 +1,5 @@
+Aga,24,wanted
+Ewa,30,cleared
+Marta,48,arrested
+Toby,80,cleared
+Iga,30,cleared

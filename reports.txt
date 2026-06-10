@@ -1,0 +1,5 @@
+18,burglary,Warsaw,5
+19,murder,Rybnik,9
+20,shoplifting,Katowice,10
+21,vandalism,Sosnowiec,2
+22,theft,Bielsko,6

@@ -1,0 +1,5 @@
+Anna,Maths,45,62,38
+Ewa,Science,90,88,95
+Marek,Maths,30,25,40
+Sofia,History,70,65,80
+Tomek,Science,55,48,20

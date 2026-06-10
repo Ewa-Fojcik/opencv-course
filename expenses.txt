@@ -1,0 +1,7 @@
+Pizza,50,food
+Bus ticket,10,transport
+Movie,15,entertainment
+Groceries,120,food
+Taxi,25,transport
+Concert,80,entertainment
+Coffee,5,food

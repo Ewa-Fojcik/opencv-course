@@ -1,0 +1,5 @@
+The Hobbit,Tolkien,False
+1984,Orwell,False
+Dune,Herbert,True
+Crime and Punishment,Dostoevsky,False
+Brave New World,Huxley,True

@@ -1,0 +1,5 @@
+Michal,70.3
+Ewa,58.7
+Marc,82.3
+Carlos,40.2
+Kamil,60.2
